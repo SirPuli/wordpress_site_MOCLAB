@@ -113,7 +113,7 @@ body {
 </head>
 <body>
   <div data-collapse="medium" data-animation="default" data-duration="400" class="nav-bar-2 w-nav">
-    <div class="wrapper-4 nav-bar-wrapper"><a href="index.html" class="brand-2 w-nav-brand w--current"><img src="images/moclab.jpg" width="120" alt=""></a>
+    <div class="wrapper-4 nav-bar-wrapper"><a href="index.html" class="brand-2 w-nav-brand w--current"><img src="/wordpress/wp-content/uploads/2020/02/moclab.jpg" width="120" alt=""></a>
       <div class="navigation-2">
         <nav role="navigation" class="nav-menu w-nav-menu"><a href="#felhasznalasiterulet" class="nav-link-4 w-nav-link">Felhasználási területek</a><a href="tech-specs.html" class="nav-link-4 w-nav-link">Technikai részletek</a>
           <div class="mobilkapcsolat"><a href="#" class="button-12 w-button">Get in touch</a></div>
