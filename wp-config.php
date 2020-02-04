@@ -20,7 +20,7 @@
 define( 'DB_NAME', 'MocabTestDB' );
 
 /** MySQL felhasználónév */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL jelszó. */
 define( 'DB_PASSWORD', '' );

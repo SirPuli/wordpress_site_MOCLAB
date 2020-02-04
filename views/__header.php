@@ -153,16 +153,21 @@
 <body>
 <div data-collapse="medium" data-animation="default" data-duration="400" class="nav-bar-2 w-nav">
     <div class="wrapper-4 nav-bar-wrapper">
-        <a href="index.php" class="brand-2 w-nav-brand w--current"><img
+        <a href="http://localhost/wordpress/?page=main_page" class="brand-2 w-nav-brand w--current"><img
                     src="/wordpress/wp-content/uploads/2020/02/moclab.jpg" width="120" alt="">
         </a>
 
         <div class="navigation-2">
             <nav role="navigation" class="nav-menu w-nav-menu">
+                <?php if($page == "main_page"): ?>
                 <a href="#felhasznalasiterulet" class="nav-link-4 w-nav-link">Felhasználási területek
                 </a>
+                <?php else:?>
+                <a href="http://localhost/wordpress/?page=main_page" class="nav-link-4 w-nav-link">Főoldal
+                </a>
+                <?php endif;?>
 
-                <a href="tech-specs.html" class="nav-link-4 w-nav-link">Technikai részletek
+                <a class="nav-link-4 w-nav-link" href="http://localhost/wordpress/?page=tech-specs"">Technikai részletek
                 </a>
 
                 <div class="mobilkapcsolat">
