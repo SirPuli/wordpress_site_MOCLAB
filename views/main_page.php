@@ -2,12 +2,17 @@
 <div data-w-id="98030000-d067-cd47-7ee4-53a3ba8d5c06" class="section full-screen background-image-side">
     <div class="wrapper-2">
         <div class="row_hero-f herot">
+            
             <div class="col lg-6 md-3 sm-2">
+
                 <div class="oneliner">
                     <h1><strong class="bold-text">Utilize your motion</strong><br></h1>
+
                     <p class="short-paragraph"><em class="italic-text-2">Moclab</em> is an affordable wireless motion capture system for you. Explore your movement.</p>
                 </div>
+
             </div>
+
             <div data-w-id="58511231-bed5-762b-4709-db83c8e0b98e" class="illu-container">
 
                 <div data-w-id="3f3bc992-7a1c-88e3-a7de-c9ef200e52fd" class="illu-interaction">
@@ -24,6 +29,7 @@
             </div>
         </div>
     </div>
+
     <div class="wrapper-3">
         <div class="row-2">
             <div class="col lg-5">
@@ -58,34 +64,49 @@
         </div>
     </div>
 </div>
+
 <div id="felhasznalasiterulet" class="section-5 no-padding-top jarmuvek jarmuvekaloldal">
     <div id="jarmuszekcio" class="section-intro-2 jarmu jarmuhome">
         <h2 class="heading-8">Felhasználási területek</h2>
         <p id="slidertopmobile" class="paragraph">The Brandless motion capture system ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Néhány felhasználási terület:<br></p>
     </div>
+
     <div data-duration-in="100" data-duration-out="200" data-easing="ease-in-quart" class="tab-container w-tabs">
         <div class="tab w-tab-menu"><a data-w-tab="Tab 1" class="tab-button w-inline-block w-tab-link w--current">
-            <img src="/wordpress/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Animáció és film</strong></div></div></a><a data-w-tab="Tab 2" class="tab-button w-inline-block w-tab-link">
+            <img src="/wordpress/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44">
+
+                <div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Animáció és film</strong></div></div></a><a data-w-tab="Tab 2" class="tab-button w-inline-block w-tab-link">
                 <img src="/wordpress/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44">
 
                 <div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Játékfejlesztés</strong></div></div></a><a data-w-tab="Tab 4" class="tab-button w-inline-block w-tab-link">
-                <img src="/wordpress/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Orvosi</strong></div></div></a></div>
+                <img src="/wordpress/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44">
+
+                <div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Orvosi</strong></div></div></a></div>
+
+        <!-- TAB Content -->        
         <div class="tab-wrapper w-tab-content">
+
+            <!-- TAB 1 -->
             <div data-w-tab="Tab 1" class="tabcontent w-tab-pane w--tab-active">
                 <div class="content">
                     <div class="div-block-165">
                         <div class="div-block-166">
+                            
                             <p class="paragraph-4 jarmucim">Másodlagos cím</p>
                             <p class="paragraph-43">A kézi karakter animáció egy lassú és megterhelő. Az élethű mozgás képkockánkénti megalkotása feleslegesen bonyolult és költséges folyamat. Bújj inkább a hőseid bőrébe, és add hozzá saját mozgásod a történetükhöz.</p>
+                            
                             <ul class="list-5">
                                 <li class="listmargin">Animálj szabadon</li>
                                 <li class="listmargin">Vedd fel, szerkeszd, építsd be</li>
                                 <li class="listmargin">Akár valós időben</li>
                             </ul>
+
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- TAB 2 -->
             <div data-w-tab="Tab 2" class="tabcontent w-tab-pane">
                 <div class="content">
                     <div class="div-block-165">
@@ -100,6 +121,8 @@
                     </div>
                 </div>
             </div>
+
+            <!-- TAB 4 -->
             <div data-w-tab="Tab 4" class="tabcontent w-tab-pane">
                 <div class="content">
                     <div class="div-block-165">
@@ -117,8 +140,12 @@
                     </div>
                 </div>
             </div>
+
+
         </div>
     </div>
+
+
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -143,6 +170,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="swiper-slide">
                 <div class="div-block-163">
                     <div class="div-block-182">
@@ -162,6 +190,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="swiper-slide">
                 <div class="div-block-163">
                     <div class="div-block-182">
@@ -187,6 +216,8 @@
         </div>
     </div>
 </div>
+
+
 <div class="prototype-section-2 v2">
     <div class="prototype-content az">
         <div class="kepek-div">
@@ -210,6 +241,10 @@
             <h2 class="heading">Miért velünk?</h2>
             <p class="margin-bottom">Kreatív és kíváncsi emberek vagyunk akik szeretnek mindig az új és érdekes problémákkal foglalkozni, nem pedig a monoton ismétlődő feladatokkal tölteni az időt. Ezért fejlesztünk olyan eszközöket és megoldásokat amik a monoton munkát izgalmas és motiváló tevékenységgé alakítják.<br></p>
         </div>
-        <div class="div-block-181"><img src="/wordpress/wp-content/uploads/2020/02/project_myron_prototype.jpg" alt="" class="image-42"></div>
+
+        <div class="div-block-181">
+            <img src="/wordpress/wp-content/uploads/2020/02/project_myron_prototype.jpg" alt="" class="image-42">
+        </div>
+
     </div>
 </div>
