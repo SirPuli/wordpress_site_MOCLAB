@@ -9,8 +9,8 @@
                 </div>
             </div>
             <div data-w-id="58511231-bed5-762b-4709-db83c8e0b98e" class="illu-container">
-                <div data-w-id="3f3bc992-7a1c-88e3-a7de-c9ef200e52fd" class="illu-interaction"><img src="images/path.svg" data-w-id="3ac7f581-a8a8-edaf-7ee3-49caace2ea83" alt="" class="image-46"><img src="images/path.svg" alt="" class="image-45"><img src="images/path.svg" alt="" class="image-47"><img src="images/path.svg" alt="" class="image-48"></div>
-                <div id="w-node-db83c8e0b98f-1895c73b" data-w-id="58511231-bed5-762b-4709-db83c8e0b98f" class="illu"><img src="images/15276-Converted-a3.svg" alt="Digital barcode" class="illu-part-1"><img src="images/5b238899d09b866b07cf57b6_pattern-dot-white.svg" alt="Part of the digital concert ticket. " data-w-id="58511231-bed5-762b-4709-db83c8e0b991" class="illu-part-2"><img src="images/15276-Converted-a1.svg" width="251" alt="The singer SZA" class="illu-part-3"><img src="images/15276-Converted-a2.svg" width="253" alt="" class="illu-part-4"></div>
+                <div data-w-id="3f3bc992-7a1c-88e3-a7de-c9ef200e52fd" class="illu-interaction"><img src="/wp-content/uploads/2020/02/path.svg" data-w-id="3ac7f581-a8a8-edaf-7ee3-49caace2ea83" alt="" class="image-46"><img src="/wp-content/uploads/2020/02/path.svg" alt="" class="image-45"><img src="/wp-content/uploads/2020/02/path.svg" alt="" class="image-47"><img src="/wp-content/uploads/2020/02/path.svg" alt="" class="image-48"></div>
+                <div id="w-node-db83c8e0b98f-1895c73b" data-w-id="58511231-bed5-762b-4709-db83c8e0b98f" class="illu"><img src="/wp-content/uploads/2020/02/15276-Converted-a3.svg" alt="Digital barcode" class="illu-part-1"><img src="/wp-content/uploads/2020/02/5b238899d09b866b07cf57b6_pattern-dot-white.svg" alt="Part of the digital concert ticket. " data-w-id="58511231-bed5-762b-4709-db83c8e0b991" class="illu-part-2"><img src="images/15276-Converted-a1.svg" width="251" alt="The singer SZA" class="illu-part-3"><img src="images/15276-Converted-a2.svg" width="253" alt="" class="illu-part-4"></div>
             </div>
         </div>
     </div>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col lg-5-image"><img src="images/15276-Converted_B.svg" width="553" alt="" class="image-34"></div>
+            <div class="col lg-5-image"><img src="/wp-content/uploads/2020/02/15276-Converted_B.svg" width="553" alt="" class="image-34"></div>
         </div>
     </div>
 </div>
@@ -54,7 +54,7 @@
         <p id="slidertopmobile" class="paragraph">The Brandless motion capture system ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Néhány felhasználási terület:<br></p>
     </div>
     <div data-duration-in="100" data-duration-out="200" data-easing="ease-in-quart" class="tab-container w-tabs">
-        <div class="tab w-tab-menu"><a data-w-tab="Tab 1" class="tab-button w-inline-block w-tab-link w--current"><img src="images/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Animáció és film</strong></div></div></a><a data-w-tab="Tab 2" class="tab-button w-inline-block w-tab-link"><img src="images/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Játékfejlesztés</strong></div></div></a><a data-w-tab="Tab 4" class="tab-button w-inline-block w-tab-link"><img src="images/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Orvosi</strong></div></div></a></div>
+        <div class="tab w-tab-menu"><a data-w-tab="Tab 1" class="tab-button w-inline-block w-tab-link w--current"><img src="/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Animáció és film</strong></div></div></a><a data-w-tab="Tab 2" class="tab-button w-inline-block w-tab-link"><img src="/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Játékfejlesztés</strong></div></div></a><a data-w-tab="Tab 4" class="tab-button w-inline-block w-tab-link"><img src="/wp-content/uploads/2020/02/background-image.svg" width="80" alt="" class="image-44"><div class="felhasz"><div class="text-block-29"><strong class="bold-text-14">Orvosi</strong></div></div></a></div>
         <div class="tab-wrapper w-tab-content">
             <div data-w-tab="Tab 1" class="tabcontent w-tab-pane w--tab-active">
                 <div class="content">
@@ -109,7 +109,7 @@
             <div class="swiper-slide">
                 <div class="div-block-163">
                     <div class="div-block-182">
-                        <div class="review-v1-slide-3"><img src="images/43---thumb.svg" alt="" class="image-43"></div>
+                        <div class="review-v1-slide-3"><img src="/wp-content/uploads/2020/02/43-thumb.svg" alt="" class="image-43"></div>
                         <div class="carcardinfohide">
                             <div class="carcard_text">
                                 <div class="div-block-166">
@@ -129,7 +129,7 @@
             <div class="swiper-slide">
                 <div class="div-block-163">
                     <div class="div-block-182">
-                        <div class="review-v1-slide-3"><img src="images/43---thumb.svg" alt="" class="image-43"></div>
+                        <div class="review-v1-slide-3"><img src="/wp-content/uploads/2020/02/43-thumb.svg" alt="" class="image-43"></div>
                         <div class="carcardinfohide">
                             <div class="carcard_text">
                                 <div class="div-block-166">
@@ -148,7 +148,7 @@
             <div class="swiper-slide">
                 <div class="div-block-163">
                     <div class="div-block-182">
-                        <div class="review-v1-slide-3"><img src="images/43---thumb.svg" alt="" class="image-43"></div>
+                        <div class="review-v1-slide-3"><img src="/wp-content/uploads/2020/02/43-thumb.svg" alt="" class="image-43"></div>
                         <div class="carcardinfohide">
                             <div class="carcard_text">
                                 <div class="div-block-166">
