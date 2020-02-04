@@ -1,3 +1,5 @@
+<?php if (!defined('VERSION')) { exit; } ?>
+
 <div id="get-in-touch" class="section-7">
     <div class="div-block-185">
 

@@ -1,3 +1,5 @@
+<?php if (!defined('VERSION')) { exit; } ?>
+
 <div class="wrapper"></div>
 <div data-w-id="98030000-d067-cd47-7ee4-53a3ba8d5c06" class="section full-screen background-image-side">
     <div class="wrapper-2">

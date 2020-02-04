@@ -1,3 +1,5 @@
+<?php if (!defined('VERSION')) { exit; } ?>
+
 <!DOCTYPE html>
 <html data-wf-page="5d37a6b391bed0f41895c73b" data-wf-site="5d37a6b391bed06c6395c73e">
 <head>
