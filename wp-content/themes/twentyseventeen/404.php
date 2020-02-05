@@ -1,4 +1,4 @@
-
+<?php
 /**
  * The template for displaying 404 pages (not found)
  *
@@ -10,6 +10,7 @@
  * @version 1.0
  */
 
+get_header(); ?>
 
 <div class="wrap">
 	<div id="primary" class="content-area">

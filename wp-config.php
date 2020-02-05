@@ -17,10 +17,10 @@
 
 // ** MySQL beállítások - Ezeket a szolgálatótól lehet beszerezni ** //
 /** Adatbázis neve */
-define( 'DB_NAME', 'MocabTestDB' );
+define( 'DB_NAME', 'moclabdb' );
 
 /** MySQL felhasználónév */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'root' );
 
 /** MySQL jelszó. */
 define( 'DB_PASSWORD', '' );
@@ -43,14 +43,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY', '*IW+IF_{E4RN-(($5i$X <qeiFe{SIX_obz0~28 kJ.kzN#.{I4*1On76X~hWxWG' );
-define( 'SECURE_AUTH_KEY', 'Oe2aH-CMsh`)~fGcB`8-lF2Scp-Mz5Z`>O} K4?`&;|I*7L=lhnQbTFEZoi#94o5' );
-define( 'LOGGED_IN_KEY', 'pvH]+!(RI2<?!+rpfb}9esWBmgjutm0+82SKc[0w}.%DgpbD+!01){sn*FN:{eDw' );
-define( 'NONCE_KEY', '+U|-_m0Cjm^a2ZaU:(XW*|i$>g!Hsn`W@v4pVhJutCQ?QuS7:6:1Q.-^J]:c7-I%' );
-define( 'AUTH_SALT',        '79MU.ru>i*PKf:}CIH4k.7;`4:~-(,gRBnxvx<$wQ[uFt53d9&>;!P5[YK,ij;vs' );
-define( 'SECURE_AUTH_SALT', 'gU_NXxinCG44s?0(V2P5kY*R+Qc8Vc-%r}F^_owoFpj[Yr?P_Zef3RjzRJVz!U>Z' );
-define( 'LOGGED_IN_SALT',   'VOnMZCb{i/gcpB1**M;;O+}gf;[ZDB/|> JV! ,} Kst0bu(Va4*6PC6L5.@rEa1' );
-define( 'NONCE_SALT',       'N6sF-YUp>C*)Xj{[22|Ga7<{Oz(bC{$F lOA1(W43u?+%0s9Lmg@&%~3PZs gu2h' );
+define( 'AUTH_KEY', 'sqQNgm8x+};RgBu]zwci46-pM!.DR,zX*GqdR58+z<TpmFVClq4B)jYbrg~Av4e7' );
+define( 'SECURE_AUTH_KEY', 'fQDs/e?exgvZi$>70^?!Xa~a$PM[U2Xm(OOiJGVQtBt@t#F[~tVY?P;a@uMWX5{z' );
+define( 'LOGGED_IN_KEY', 'BEyrq_(cSb%$oflRkgD@rvItm=ujh{&esS4n#.P)hWQxhgadqlNcM}n>7&x-4&W8' );
+define( 'NONCE_KEY', 'CqB/)4Is657hbm0sN9vssuvK^Gm:-[rE;w}b4x+|bEq ]_aeZ4&bN3WeDYM<?LOf' );
+define( 'AUTH_SALT',        'SMH ]lI?/l]q45:(G67I<cC?4ZAKZ$ulhF.Sl]F.TJ<XNKR^~ldtisij?lw-Z{U)' );
+define( 'SECURE_AUTH_SALT', '1cEF:.F<fp5{lLE2IcbW2vc&v]4x#G:S/] @?]Azp}@ay0Uak]T |1]h7Q|PR99e' );
+define( 'LOGGED_IN_SALT',   'F5yuo=# KxZ9qtl.t9;TK9!vcn#?eX;$Jl/c<Ksv.(j#e+v(kY5M 5_?z Pc*HvT' );
+define( 'NONCE_SALT',       'uIl!,o*_1;By.P~BdJLH1qoD!905b}tTyHWG6GXnm[OkmgSEs+#>p^$vuB,+E0NW' );
 
 /**#@-*/
 
@@ -60,7 +60,7 @@ define( 'NONCE_SALT',       'N6sF-YUp>C*)Xj{[22|Ga7<{Oz(bC{$F lOA1(W43u?+%0s9Lmg
  * Több blogot is telepíthetünk egy adatbázisba, ha valamennyinek egyedi
  * előtagot adunk. Csak számokat, betűket és alulvonásokat adhatunk meg.
  */
-$table_prefix = 'wp_mocabtest';
+$table_prefix = 'wp_';
 
 /**
  * Fejlesztőknek: WordPress hibakereső mód.
