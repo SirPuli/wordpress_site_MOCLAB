@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60db73ea-bcd1-450e-92c2-e28a18779aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/BackUP/tech-specs.html.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech-specs.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/tech-specs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/__header.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/__header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
-    </list>
+    <list default="true" id="60db73ea-bcd1-450e-92c2-e28a18779aff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/BackUP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -60,6 +51,7 @@
       <workItem from="1580738320247" duration="2204000" />
       <workItem from="1580810201446" duration="196000" />
       <workItem from="1580812140936" duration="467000" />
+      <workItem from="1580982570206" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="added acccess protection">
       <created>1580812347527</created>
