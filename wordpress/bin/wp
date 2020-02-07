@@ -1,0 +1,6 @@
+#!/bin/bash
+. /opt/lampp/scripts/setenv.sh
+export WP_CLI_CONFIG_PATH="/opt/lampp/apps/wordpress/bin/wp-cli.yml"
+export WP_CLI_PHP_USED="/opt/lampp/bin/php"
+
+exec "/opt/lampp/bin/php" "/opt/lampp/apps/wordpress/bin/wp-cli.phar" "$@"
