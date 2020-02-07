@@ -45,7 +45,7 @@
         <header>
             <div data-collapse="medium" data-animation="default" data-duration="400" class="nav-bar-2 w-nav">
                 <div class="wrapper-4 nav-bar-wrapper">
-                    <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/home" class="brand-2 w-nav-brand w--current"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/moclab.jpg" width="120" alt=""></a>
+                    <a href="/wordpress/" class="brand-2 w-nav-brand w--current"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/images/moclab.jpg" width="120" alt=""></a>
                     <div class="navigation-2">       <!-- NAV MENU KIALAKÍTÁSA WORDPRESS-BEN -->
                         <nav role="navigation" class="nav-menu w-nav-menu">
                         <?php 
