@@ -1,0 +1,114 @@
+// Name:            Overlay
+// Description:     Component to create content areas overlaying an image
+//
+// Component:       `uk-overlay`
+//
+// Adopted:         `uk-overlay-icon`
+//
+// Modifier:        `uk-overlay-default`
+//                  `uk-overlay-primary`
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+// @eso-ovr-default:                                   #ffffff;
+// @eso-ovr-primary:                                   #222222;
+
+// @overlay-padding-horizontal:                    @global-gutter;
+// @overlay-padding-vertical:                      @global-gutter;
+
+@overlay-default-background:                    fade(@eso-ovr-default, 80%);
+
+@overlay-primary-background:                    fade(@eso-ovr-primary, 80%);
+@overlay-primary-color-mode:                    light;
+
+
+/* ========================================================================
+Component: Overlay
+========================================================================== */
+
+.uk-overlay {
+    padding: @overlay-padding-vertical @overlay-padding-horizontal;
+    .hook-overlay;
+}
+
+/*
+* Remove margin from the last-child
+*/
+
+.uk-overlay > :last-child { margin-bottom: 0; }
+
+
+/* Icon
+========================================================================== */
+
+.uk-overlay-icon {
+    .hook-overlay-icon;
+}
+
+
+/* Style modifiers
+========================================================================== */
+
+/*
+* Default
+*/
+
+.uk-overlay-default {
+    background: @overlay-default-background;
+    transition: all 0.25s;
+    &.uk-overlay-hover-darken:hover {
+        background: fade(@global-background, 90%);
+    }
+    .hook-overlay-default;
+}
+
+.uk-overlay-default-hover-darken {
+
+}
+
+/*
+* Primary
+*/
+
+.uk-overlay-primary {
+    background: @overlay-primary-background;
+    transition: all 0.25s;
+    &.uk-overlay-hover-darken:hover {
+        background: fade(@overlay-primary-background, 90%);
+    }
+    .hook-overlay-primary;
+}
+
+// Color Mode
+.uk-overlay-primary:extend(.uk-light all) when (@overlay-primary-color-mode = light) {
+
+}
+.uk-overlay-primary:extend(.uk-dark all) when (@overlay-primary-color-mode = dark) {
+
+}
+
+
+// Hooks
+// ========================================================================
+
+.hook-overlay-misc;
+
+.hook-overlay() {
+
+}
+.hook-overlay-icon() {
+
+}
+.hook-overlay-default() {
+
+}
+.hook-overlay-primary() {
+
+}
+.hook-overlay-misc() {
+
+}

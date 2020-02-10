@@ -1,0 +1,101 @@
+//
+// Component: Divider
+//
+// ========================================================================
+
+.uk-hr {
+    height: 1px;
+    border-top: 1px solid;
+    margin: 0;
+    &.uk-hr-tiny {
+        margin-top: @global-tiny-margin;
+        margin-bottom: @global-tiny-margin;
+    }
+    &.uk-hr-small {
+        margin-top: @global-small-margin;
+        margin-bottom: @global-small-margin;
+    }
+    &.uk-hr-medium {
+        margin-top: @global-medium-margin;
+        margin-bottom: @global-medium-margin;
+    }
+    &.uk-hr-large {
+        margin-top: @global-large-margin;
+        margin-bottom: @global-large-margin;
+    }
+}
+
+.uk-light {
+    .uk-hr {
+        background-color: @global-inverse-color;
+    }
+}
+
+// Variables
+// ========================================================================
+
+
+// Icon
+// ========================================================================
+
+.hook-divider-icon() {
+    
+}
+
+.hook-divider-icon-line() {
+    
+}
+
+.hook-divider-icon-line-left() {
+    border-bottom-color: inherit
+}
+
+.hook-divider-icon-line-right() {
+    border-bottom-color: inherit
+}
+
+
+// Small
+// ========================================================================
+
+.hook-divider-small() {
+    border-top-color: inherit;
+}
+
+
+// Vertical
+// ========================================================================
+
+.hook-divider-vertical() {
+    border-left-color: inherit;
+}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-divider-misc() {
+    [class*='uk-divider'] {
+        margin-bottom: 0 !important;
+        margin-top: 0 !important;
+    }
+}
+
+
+// Inverse
+// ========================================================================
+
+.hook-inverse-divider-icon() {
+    
+}
+.hook-inverse-divider-icon-line() {
+    
+}
+
+.hook-inverse-divider-small() {
+    
+}
+
+.hook-inverse-divider-vertical() {
+    
+}
